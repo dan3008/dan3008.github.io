@@ -7,5 +7,6 @@
     "title": "DM.exe has crashed",
     "icon": "/icon.svg",
     "popover": "/"
-  }
+  },
+  "background_url": "/background.html"
 }
