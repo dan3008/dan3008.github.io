@@ -1,12 +1,17 @@
 {
-  "name": "DM.exe has crashed",
-  "version": "1.0.0",
+  "name": "Dice",
+  "version": "2.0.0",
   "manifest_version": 1,
-  "description": "For when your players really throw you off",
+  "author": "Owlbear Rodeo",
+  "homepage_url": "https://extensions.owlbear.rodeo/dice",
+  "icon": "/logo.png",
+  "description": "Beautiful 3D dice extension for d20 based systems",
   "action": {
-    "title": "DM.exe has crashed",
+    "title": "Dice",
     "icon": "/icon.svg",
-    "popover": "/"
+    "popover": "/",
+    "height": 700,
+    "width": 375
   },
   "background_url": "/background.html"
 }
