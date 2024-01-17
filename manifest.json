@@ -2,6 +2,7 @@
   "name": "DM.exe has crashed",
   "version": "1.0.0",
   "manifest_version": 1,
+  "description": "For when your players really throw you off",
   "action": {
     "title": "DM.exe has crashed",
     "icon": "/icon.svg",
