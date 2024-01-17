@@ -5,7 +5,6 @@
   "author": "Dan3008 - Dice Adventures",
   "homepage_url": "https://dan3008.github.io",
   "icon": "/icon.svg",
-  "description": "My own plugin",
   "action": {
     "title": "DM.exe has crashed",
     "icon": "/icon.svg",
