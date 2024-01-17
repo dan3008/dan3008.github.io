@@ -2,9 +2,14 @@
   "name": "DM.exe has crashed",
   "version": "1.0.0",
   "manifest_version": 1,
+  "author": "Dan3008 - Dice Adventures",
+  "homepage_url": "https://dan3008.github.io",
+  "icon": "/icon.svg",
+  "description": "Display messages over the map when your palayers totally derail you. These useful little tips act like a loading screen while you desperaitly try and work out what to do.",
   "action": {
     "title": "DM.exe has crashed",
     "icon": "/icon.svg",
     "popover": "/"
-  }
+  },
+  "background_url": "/background.html"
 }
