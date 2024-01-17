@@ -1,0 +1,16 @@
+{
+  "name": "DM Error",
+  "version": "1.0.1",
+  "manifest_version": 1,
+  "author": "Dan3008",
+  "homepage_url": "https://dan3008.github.io",
+  "icon": "/logo.png",
+  "description": "For when your plays throw you off",
+  "action": {
+    "title": "DM Error",
+    "icon": "/icon.svg",
+    "popover": "/",
+    "height": 700,
+    "width": 375
+  }
+}
