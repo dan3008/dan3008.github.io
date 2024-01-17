@@ -5,7 +5,7 @@
   "author": "Dan3008 - Dice Adventures",
   "homepage_url": "https://dan3008.github.io",
   "icon": "/icon.svg",
-  "description": "A simple plugin to buy you time when DM.exe crashes",
+  "description": "My own plugin",
   "action": {
     "title": "DM.exe has crashed",
     "icon": "/icon.svg",
