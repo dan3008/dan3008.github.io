@@ -1,12 +1,10 @@
 {
-  "name": "Hello, World!",
+  "name": "DM.exe has crashed",
   "version": "1.0.0",
   "manifest_version": 1,
   "action": {
-    "title": "Hello, World!",
+    "title": "DM.exe has crashed",
     "icon": "/icon.svg",
-    "popover": "/",
-    "height": 600,
-    "width": 400
+    "popover": "/"
   }
 }
